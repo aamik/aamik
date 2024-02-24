@@ -4,11 +4,11 @@ I'm a Computer Science student from Jyväskylä, Finland. My passion for compute
 
 ## 🌇 My Learning Journey
 
-My repositories reflect journey - they are not just code, but milestones in my learning path. They document my progress in understanding various programming languages, frameworks, data science concepts, and software engineering principles.
+My repositories reflect my journey - they are not just code, but milestones in my learning path. They document my progress in understanding various programming languages, frameworks, data science concepts, and software engineering principles.
 
 ## 🌲 Personal Interests
 
-In my off time, I find balance in the tranquility of the outdoors, the thrill of cycling, the rhythm of music in all its forms, and the discipline of regular gym workouts.
+In my off time, I find balance in the tranquility of the outdoors, the thrill of cycling, music in all its forms, and the discipline of regular gym workouts.
 
 ## 📫 Get in Touch
 
