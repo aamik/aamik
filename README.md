@@ -8,7 +8,7 @@ My repositories reflect my journey - they are not just code, but milestones in m
 
 ## 🌲 Personal Interests
 
-In my off time, I find balance in the tranquility of the outdoors, the thrill of cycling, music in all its forms, and the discipline of regular gym workouts.
+In my off time, I find balance in the tranquility of the outdoors, the thrill of cycling, music in all its forms, and the discipline of regular gym.
 
 ## 📫 Get in Touch
 
