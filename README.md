@@ -1,6 +1,6 @@
-# Hi, my name is Aapo! 👋
+# Hi, I'm Aapo! 👋
 
-I'm a Computer Science student from Jyväskylä, Finland. My passion for computers, ignited in my childhood, has now become a conscientious academic and professional journey.
+ My passion for computers, ignited in my childhood, has now become a conscientious academic and professional journey.
 
 ## 🌇 My Learning Journey
 
