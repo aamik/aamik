@@ -16,5 +16,5 @@ Feel free to browse through my work and reach out for any collaboration opportun
 
 ---
 
-[Portfolio site](https://github.com/aamik/aamik.github.io)
+[Portfolio site](https://aamik.github.io)
 
