@@ -1,6 +1,6 @@
 # Hi, I'm Aapo! 👋
 
- My passion for computers, ignited in my childhood, has now become a conscientious academic and professional journey.
+ My passion for computers has now become a conscientious academic and professional journey.
 
 ## 🌇 My Learning Journey
 
@@ -8,8 +8,13 @@ My repositories reflect my journey - they are not just code, but milestones in m
 
 ## 🌲 Personal Interests
 
-In my off time, I find balance in the tranquility of the outdoors, the thrill of cycling, music in all its forms, and the discipline of regular gym.
+In my off time, I find balance in the tranquility of the outdoors, the thrill of cycling, music in all its forms, and the discipline of regular workout.
 
 ## 📫 Get in Touch
 
 Feel free to browse through my work and reach out for any collaboration opportunities or discussions. Happy coding!
+
+Check my site: https://github.com/aamik/aamik.github.io
+
+[Portfolio site](https://github.com/aamik/aamik.github.io)
+
