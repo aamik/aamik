@@ -14,7 +14,7 @@ In my off time, I find balance in the tranquility of the outdoors, the thrill of
 
 Feel free to browse through my work and reach out for any collaboration opportunities or discussions. Happy coding!
 
-Check my site: https://github.com/aamik/aamik.github.io
+---
 
 [Portfolio site](https://github.com/aamik/aamik.github.io)
 
