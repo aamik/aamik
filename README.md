@@ -1,10 +1,10 @@
-# Hi, I'm Aapo! 👋
+# Hi, I'm Aapo! 
 
  My passion for computers has now become a conscientious academic and professional journey.
 
 ## 🌇 My Learning Journey
 
-My repositories reflect my journey - they are not just code, but milestones in my learning path. They document my progress in understanding various programming languages, frameworks, data science concepts, and software engineering principles.
+My repositories reflect my journey - they are not just code, but milestones in my learning path. They document my progress in understanding various programming languages, frameworks and computer science concepts.
 
 ## 🌲 Personal Interests
 
