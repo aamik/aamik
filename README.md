@@ -1,6 +1,6 @@
 # Hi, I'm Aapo! 
 
- My passion for computers has now become a conscientious academic and professional journey.
+My lifelong passion for computers has evolved into a dedicated academic and professional journey, welcome along! 
 
 ## 🌇 My Learning Journey
 
