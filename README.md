@@ -1,6 +1,6 @@
 # Hi, I'm Aapo! 
 
-My lifelong passion for computers has evolved into a dedicated academic and professional journey, welcome along! Currently embroiled in Computer Vision.
+My lifelong passion for computers has evolved into a dedicated academic and professional journey, welcome along! Currently deepening my Deep Learning and Computer Vision.
 
 ## 🌇 My Learning Journey
 
