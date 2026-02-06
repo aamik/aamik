@@ -1,6 +1,6 @@
 # Hi, I'm Aapo! 
 
-My lifelong passion for computers has evolved into a dedicated academic and professional endeavour. Currently working in building AI models in medicine.
+My lifelong passion for computers has evolved into a dedicated academic and professional endeavour. My repositories reflect my learning journey throughout the years. Currently working in building AI models in medicine.
 
 ## 📫 Get in Touch
 
