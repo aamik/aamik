@@ -1,9 +1,6 @@
 # Hi, I'm Aapo! 
 
-My lifelong passion for computers has evolved into a dedicated academic and professional path. Currently working in towards understanding AI in medicine.
-## 🌇 My Learning Journey
-
-My repositories reflect my path - they are not just code, but milestones in my learning path. They document my progress in understanding various programming languages, frameworks and computer science concepts.
+My lifelong passion for computers has evolved into a dedicated academic and professional endeavour. Currently working in building AI models in medicine.
 
 ## 📫 Get in Touch
 
